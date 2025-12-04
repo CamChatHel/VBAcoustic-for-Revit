@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name> VBAcousticPlugin</Name>
+		<Assembly>VBAcousticPlugin.dll</Assembly>
+		<AddInId>F8F68CAE-7177-4D41-807F-B27F5CE53C61</AddInId>
+		<FullClassName>VBAcousticPlugin.Application</FullClassName>
+		<VendorId>Camille</VendorId>
+		<VendorDescription>Camille.Chateauvieux-Hellwig@th-rosenheim.de</VendorDescription>
+	</AddIn>
+</RevitAddIns>
