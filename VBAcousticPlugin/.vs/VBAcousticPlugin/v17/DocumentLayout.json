@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\SchalluSchwing\\VBAcoustic\\VBAcousticRevitAPI\\RevitAPI-main\\VBAcousticPlugin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{457A1338-6BEA-4ECD-A870-6FAC38FE351A}|VBAcousticPlugin\\VBAcousticPlugin.csproj|h:\\schalluschwing\\vbacoustic\\vbacousticrevitapi\\revitapi-main\\vbacousticplugin\\vbacousticplugin\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457A1338-6BEA-4ECD-A870-6FAC38FE351A}|VBAcousticPlugin\\VBAcousticPlugin.csproj|solutionrelative:vbacousticplugin\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457A1338-6BEA-4ECD-A870-6FAC38FE351A}|VBAcousticPlugin\\VBAcousticPlugin.csproj|H:\\SchalluSchwing\\VBAcoustic\\VBAcousticRevitAPI\\RevitAPI-main\\VBAcousticPlugin\\vbacousticplugin\\junctionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457A1338-6BEA-4ECD-A870-6FAC38FE351A}|VBAcousticPlugin\\VBAcousticPlugin.csproj|solutionrelative:vbacousticplugin\\junctionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457A1338-6BEA-4ECD-A870-6FAC38FE351A}|VBAcousticPlugin\\VBAcousticPlugin.csproj|H:\\SchalluSchwing\\VBAcoustic\\VBAcousticRevitAPI\\RevitAPI-main\\VBAcousticPlugin\\vbacousticplugin\\storedata\\storedatainelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457A1338-6BEA-4ECD-A870-6FAC38FE351A}|VBAcousticPlugin\\VBAcousticPlugin.csproj|solutionrelative:vbacousticplugin\\storedata\\storedatainelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457A1338-6BEA-4ECD-A870-6FAC38FE351A}|VBAcousticPlugin\\VBAcousticPlugin.csproj|H:\\SchalluSchwing\\VBAcoustic\\VBAcousticRevitAPI\\RevitAPI-main\\VBAcousticPlugin\\vbacousticplugin\\getrevitname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457A1338-6BEA-4ECD-A870-6FAC38FE351A}|VBAcousticPlugin\\VBAcousticPlugin.csproj|solutionrelative:vbacousticplugin\\getrevitname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 251,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetRevitName.cs",
+              "DocumentMoniker": "H:\\SchalluSchwing\\VBAcoustic\\VBAcousticRevitAPI\\RevitAPI-main\\VBAcousticPlugin\\VBAcousticPlugin\\GetRevitName.cs",
+              "RelativeDocumentMoniker": "VBAcousticPlugin\\GetRevitName.cs",
+              "ToolTip": "H:\\SchalluSchwing\\VBAcoustic\\VBAcousticRevitAPI\\RevitAPI-main\\VBAcousticPlugin\\VBAcousticPlugin\\GetRevitName.cs",
+              "RelativeToolTip": "VBAcousticPlugin\\GetRevitName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:09:13.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoreDataInElement.cs",
+              "DocumentMoniker": "H:\\SchalluSchwing\\VBAcoustic\\VBAcousticRevitAPI\\RevitAPI-main\\VBAcousticPlugin\\VBAcousticPlugin\\StoreData\\StoreDataInElement.cs",
+              "RelativeDocumentMoniker": "VBAcousticPlugin\\StoreData\\StoreDataInElement.cs",
+              "ToolTip": "H:\\SchalluSchwing\\VBAcoustic\\VBAcousticRevitAPI\\RevitAPI-main\\VBAcousticPlugin\\VBAcousticPlugin\\StoreData\\StoreDataInElement.cs",
+              "RelativeToolTip": "VBAcousticPlugin\\StoreData\\StoreDataInElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:09:13.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JunctionBuilder.cs",
+              "DocumentMoniker": "H:\\SchalluSchwing\\VBAcoustic\\VBAcousticRevitAPI\\RevitAPI-main\\VBAcousticPlugin\\VBAcousticPlugin\\JunctionBuilder.cs",
+              "RelativeDocumentMoniker": "VBAcousticPlugin\\JunctionBuilder.cs",
+              "ToolTip": "H:\\SchalluSchwing\\VBAcoustic\\VBAcousticRevitAPI\\RevitAPI-main\\VBAcousticPlugin\\VBAcousticPlugin\\JunctionBuilder.cs",
+              "RelativeToolTip": "VBAcousticPlugin\\JunctionBuilder.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAkwKoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:09:13.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Application.cs",
+              "DocumentMoniker": "H:\\SchalluSchwing\\VBAcoustic\\VBAcousticRevitAPI\\RevitAPI-main\\VBAcousticPlugin\\VBAcousticPlugin\\Application.cs",
+              "RelativeDocumentMoniker": "VBAcousticPlugin\\Application.cs",
+              "ToolTip": "H:\\SchalluSchwing\\VBAcoustic\\VBAcousticRevitAPI\\RevitAPI-main\\VBAcousticPlugin\\VBAcousticPlugin\\Application.cs",
+              "RelativeToolTip": "VBAcousticPlugin\\Application.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:09:14.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
